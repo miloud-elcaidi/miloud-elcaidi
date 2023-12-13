@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miloud-elcaidi
+- 👋 Hi, I’m MILOUD ELCAIDI 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning kotlin
 - 📫 How to reach me milo.malo.399@gmail.com
